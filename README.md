@@ -1,7 +1,7 @@
 # TheOdinProject
 My Progress through The Odin Project
 
-Currently: 43%% Through Fundamentals Section
+Currently: 43% Through Fundamentals Section
 
 Fundamentals:
     html-boilerplate - The backbone of the HTML page. A templet containing all the necessary tags to start a webpage.
